@@ -1,9 +1,7 @@
-## 📌 Deskripsi
-
-Website ini adalah aplikasi latihan berbasis PHP untuk mengelola layanan pengajuan dan pengaduan masyarakat. Aplikasi ini mendukung fitur user dan admin dengan sistem login.
+Website ini adalah aplikasi latihan berbasis PHP untuk mengelola layanan pengajuan dan pengaduan masyarakat. Aplikasi ini mendukung tiga level login: User (Warga), RT, dan Admin.
 
 📝 Fitur Utama
-👥 User
+👥 User (Warga)
 
 Registrasi dan login pengguna
 
@@ -13,15 +11,27 @@ Mengajukan permohonan/pengaduan
 
 Melihat riwayat pengajuan
 
+🏠 RT
+
+Login khusus RT
+
+Melihat pengajuan warganya
+
+Memverifikasi atau menindaklanjuti pengajuan sebelum ke admin
+
+Melihat laporan khusus wilayahnya
+
 🛠 Admin
 
 Login admin
 
 Mengelola data pengguna
 
-Mengelola pengajuan/pengaduan
+Mengelola data RT
 
-Melihat laporan
+Mengelola pengajuan/pengaduan yang sudah diverifikasi
+
+Melihat laporan seluruh wilayah
 
 Mengelola informasi layanan
 
