@@ -1,9 +1,9 @@
-📌 Deskripsi
+## 📌 Deskripsi
 
 Website ini adalah aplikasi latihan berbasis PHP untuk mengelola layanan pengajuan dan pengaduan masyarakat. Aplikasi ini mendukung tiga level login: User (Warga), RT, dan Admin.
 
-📝 Fitur Utama
-👥 User (Warga)
+## 📝 Fitur Utama
+## 👥 User (Warga)
 
 Registrasi dan login pengguna
 
@@ -13,7 +13,7 @@ Mengajukan permohonan/pengaduan
 
 Melihat riwayat pengajuan
 
-🏠 RT
+## 🏠 RT
 
 Login khusus RT
 
@@ -23,7 +23,7 @@ Memverifikasi atau menindaklanjuti pengajuan sebelum ke admin
 
 Melihat laporan khusus wilayahnya
 
-🛠 Admin
+## 🛠 Admin
 
 Login admin
 
@@ -37,7 +37,7 @@ Melihat laporan seluruh wilayah
 
 Mengelola informasi layanan
 
-⚙️ Teknologi yang Digunakan
+## ⚙️ Teknologi yang Digunakan
 
 PHP
 
@@ -47,7 +47,7 @@ Bootstrap 5.3.7 untuk tampilan UI
 
 CSS
 
-🚀 Cara Instalasi
+## 🚀 Cara Instalasi
 
 Salin folder latihan aplikasi pak rinto ke direktori htdocs (jika menggunakan XAMPP) atau folder web server Anda.
 
@@ -57,12 +57,12 @@ Atur konfigurasi koneksi database di file PHP (misalnya koneksi.php atau di seti
 
 Akses melalui browser:
 
-👤 Login Default
+## 👤 Login Default
 
 User: (isi sesuai data di database)
 
 Admin: (isi sesuai data di database)
 
-📄 Lisensi
+## 📄 Lisensi
 
 Proyek ini dibuat untuk latihan pembelajaran.
