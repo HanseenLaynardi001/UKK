@@ -67,5 +67,7 @@ Admin: (isi sesuai data di database)
 
 Proyek ini dibuat untuk latihan pembelajaran.
 
+
+Activity Diagram Registrasi & Login.drawio
 <img width="462" height="1552" alt="image" src="https://github.com/user-attachments/assets/98428b57-ec98-4ad2-8c4d-59b799ec91a2" />
 
